@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning AI
+- 🌱 I’m enjoying in competitive programming
+
+[![allem40306's GitHub stats](https://github-readme-stats.vercel.app/api?username=allem40306)](https://github.com/anuraghazra/github-readme-stats)
